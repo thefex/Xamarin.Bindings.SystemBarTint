@@ -4,7 +4,7 @@
 		<id>Xamarin.Bindings.SytemBarTint</id>
 		<version>1.0.4</version>
 		<title>Xamarin.Bindings.SytemBarTint</title>
-		<authors>Przemyslaw Raciborski [thefex] - Bindings Library, Copyright 2016 Tapadoo, Dublin - java library</authors>
+		<authors>Przemyslaw Raciborski [thefex] - Bindings Library, Author: Jeff Gilfelt - java library</authors>
    		<projectUrl>https://github.com/thefex/Xamarin.Bindings.SystemBarTint</projectUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<description>
