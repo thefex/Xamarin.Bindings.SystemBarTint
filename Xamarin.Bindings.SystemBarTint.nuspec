@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+	<metadata>
+		<id>Xamarin.Bindings.SytemBarTint</id>
+		<version>1.0.4</version>
+		<title>Xamarin.Bindings.SytemBarTint</title>
+		<authors>Przemyslaw Raciborski [thefex] - Bindings Library, Copyright 2016 Tapadoo, Dublin - java library</authors>
+   		<projectUrl>https://github.com/thefex/Xamarin.Bindings.SystemBarTint</projectUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<description>
+      		Xamarin Bindings library for SystemBarTint - https://github.com/jgilfelt/SystemBarTint
+    	</description>
+		<tags>xamarin android</tags>
+		<frameworkAssemblies>
+			<frameworkAssembly assemblyName="Mono.Android.Export" targetFramework="MonoAndroid" />
+		</frameworkAssemblies>
+	</metadata>
+	<files>		
+		<file src="bin/Release/Xamarin.Bindings.SystemBarTint.dll" target="lib/MonoAndroid" />
+	</files>
+</package>
+
+
+
+
+
+
+
+
+
+
+
+
+
